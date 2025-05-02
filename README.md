@@ -17,7 +17,7 @@ I'm a passionate computer science student who enjoys learning and building thing
 
 ## 📈 GitHub Stats
 
-![Sabit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabitahmed&show_icons=true&theme=radical)
+![Sabit's GitHub stats](https://github-readme-stats.vercel.app/api?username=20sabit228&show_icons=true&theme=radical)
 
 ---
 
